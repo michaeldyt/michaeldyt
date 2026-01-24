@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RoyalRookie88
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in robotics and progamming.
 - 🌱 I’m currently learning ROS， MATLAB, C, and C++ programming languages.
 - 💞️ I’m looking to collaborate on 
-- 😄 Pronouns: RoyalBird
 - ⚡ Fun fact: I’m a freshman in the Github. Hope to learn many useful knowledge here.
 - 🤖 Maxim: There's no need to fear about infinite knowledge, every progress is worth cherishing and rejoicing in.
 
