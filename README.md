@@ -1,11 +1,11 @@
 # Michael
 
-<p>
-  <img src="assets/default_metrics.svg" width="49%" />
-  <img src="assets/metrics.plugin.isocalendar.svg" width="49%" />
-</p>
+![Default](assets/default_metrics.svg)
 
-![Language Used](assets/metrics.plugin.languages.svg)
+<p>
+  <img src="assets/metrics.plugin.isocalendar.svg" width="49%" />
+  <img src="assets/metrics.plugin.languages.svg" width="49%" />
+</p>
 
 
 - 👋 Hi, I’m Michael
