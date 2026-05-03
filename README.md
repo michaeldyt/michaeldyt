@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning , C, C++ and Python.
 - 🤖 Maxim: There's no need to fear about infinite knowledge, every progress is worth cherishing and rejoicing in.
 
-
+![Interest](assets/metrics.plugin.topics.icons.svg)
 
 
 <!---
