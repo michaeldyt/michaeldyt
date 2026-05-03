@@ -1,8 +1,9 @@
 # Michael
 
-![Default](assets/default_metrics.svg)
-
-![Commits](assets/metrics.plugin.isocalendar.svg)
+<p>
+  <img src="assets/metrics.plugin.isocalendar.svg" width="49%" />
+  <img src="assets/metrics.plugin.languages.svg" width="49%" />
+</p>
 
 ![Language Used](assets/metrics.plugin.languages.svg)
 
