@@ -2,7 +2,7 @@
 
 ![Default](assets/default_metrics.svg)
 
-![Commits](assets/metrics.plugin.isocalendar.svgg)
+![Commits](assets/metrics.plugin.isocalendar.svg)
 
 ![Language Used](assets/metrics.plugin.languages.svg)
 
