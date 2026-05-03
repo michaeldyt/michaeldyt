@@ -1,11 +1,18 @@
+# Michael
+
+![Default](assets/default_metrics.svg)
+
+![Commits](assets/metrics.plugin.isocalendar.svgg)
+
+![Language Used](assets/metrics.plugin.languages.svg)
+
+
 - 👋 Hi, I’m Michael
 - 👀 I’m interested in robotics and progamming.
 - 🌱 I’m currently learning , C, C++ and Python.
 - 🤖 Maxim: There's no need to fear about infinite knowledge, every progress is worth cherishing and rejoicing in.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldyt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldyt)
 
 
 <!---
