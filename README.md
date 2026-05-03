@@ -14,6 +14,7 @@
 - 🤖 Maxim: There's no need to fear about infinite knowledge, every progress is worth cherishing and rejoicing in.
 
 ![Interest](assets/metrics.plugin.topics.icons.svg)
+![Interest](assets/metrics.plugin.stars.svg)
 
 
 <!---

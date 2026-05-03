@@ -43,4 +43,13 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: starred
+      - name: Recently starred
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
 
