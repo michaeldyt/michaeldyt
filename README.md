@@ -14,8 +14,6 @@
 - 🤖 Maxim: There's no need to fear about infinite knowledge, every progress is worth cherishing and rejoicing in.
 
 ![Interest](assets/metrics.plugin.topics.icons.svg)
-![Interest](assets/metrics.plugin.stars.svg)
-
 
 <!---
 RoyalRookie88/RoyalRookie88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
